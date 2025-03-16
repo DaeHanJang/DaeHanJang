@@ -1,5 +1,5 @@
-### 장대한 / DaeHan Jang
-
+# 장대한 / DaeHan Jang
+## 장대한
 <!--
 **DaeHanJang/DaeHanJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

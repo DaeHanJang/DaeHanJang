@@ -1,6 +1,6 @@
 # 👨‍💻장대한 / DaeHan Jang
 실패를 두려워 하지 말아라\
-게임🎮과 사랑💕에 진심인 개발자
+🎮게임과 💕사랑에 진심인 개발자
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHanJang&layout=compact&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,18 +9,3 @@
 <img src="https://img.shields.io/badge/Unity-999999?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>\
 <img src="https://img.shields.io/badge/DirectX-7ED321?style=flat-square&logo=DirectX&logoColor=white"/> <img src="https://img.shields.io/badge/SDL-117ACA?style=flat-square&logo=SDL&logoColor=white"/>\
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Photon-004480?style=flat-square&logo=Photon&logoColor=white"/>
-
-<!--
-**DaeHanJang/DaeHanJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

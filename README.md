@@ -3,7 +3,7 @@
 🎮게임과 💕사랑에 진심인 개발자
 
 # Language
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=appveyor&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=appveyor&logoColor=white"/>
 
 <!--
 **DaeHanJang/DaeHanJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,8 +2,8 @@
 실패를 두려워 하지 말아라\
 🎮게임과 💕사랑에 진심인 개발자
 
-### Language
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-7033FD?logo=Csharp&style=flat-square&logo=csharp&logoColor=white"/>
+### Skill
+Language: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-7033FD?logo=Csharp&style=flat-square&logo=csharp&logoColor=white"/>
 
 <!--
 **DaeHanJang/DaeHanJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

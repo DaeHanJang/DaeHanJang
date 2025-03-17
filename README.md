@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/DirectX-7ED321?style=flat-square&logo=DirectX&logoColor=white"/> <img src="https://img.shields.io/badge/SDL-117ACA?style=flat-square&logo=SDL&logoColor=white"/>\
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Photon-004480?style=flat-square&logo=Photon&logoColor=white"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHanJang&layout=compact)
+
 <!--
 **DaeHanJang/DaeHanJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

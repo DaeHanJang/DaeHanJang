@@ -2,7 +2,7 @@
 실패를 두려워 하지 말아라\
 🎮게임과 💕사랑에 진심인 개발자
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHanJang&layout=compact&hide_border:False"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHanJang&layout=compact&hide_border=False"/>
 
 ## 🧰Skill
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-7033FD?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>\

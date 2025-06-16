@@ -1,6 +1,6 @@
 # 👨‍💻장대한 / DaeHan Jang
 실패를 두려워 하지 말아라\
-🎮게임과 💕사랑에 진심인 개발자
+배움에 대한 열정을 가진 개발자
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHanJang&layout=compact&hide_border=True&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
